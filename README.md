@@ -69,5 +69,5 @@ As a Gen Z budding epidemiologist, I strive to look beyond quantitative health o
 ---
 
 <p align="center">
-  <i>“Using data, context, and compassion to understand and improve population health.”</i>
+  <i>“Looking at data beyond the numbers to improve population health”</i>
 </p>
