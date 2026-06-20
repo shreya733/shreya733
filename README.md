@@ -34,7 +34,7 @@ As a Gen Z budding epidemiologist, I strive to look beyond quantitative health o
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,wordpress, prisma,postgres,git,github,vscode"/>
+  [![My Skills](https://skillicons.dev/icons?i=python,r,mysql,wordpress, prisma,postgres,git,github,vscode)](https://skillicons.dev)
 </p>
 
 <p align="center">
