@@ -5,7 +5,7 @@ I complted my BA in Liberal Arts from the Soka University of America and is curr
 
 ## 🛠️ Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,mysql,prisma,git, github, postgres, vscode, wordpress)](https://skillicons.dev)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge)
 ![STATA](https://img.shields.io/badge/STATA-1A5F9E?style=for-the-badge)
