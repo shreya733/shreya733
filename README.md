@@ -58,10 +58,10 @@ As a Gen Z budding epidemiologist, I strive to look beyond quantitative health o
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:sdixit@soka.edu">
+  <a href="mailto:shreya.neet2021@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/shreyadixit1//">
+  <a href="https://www.linkedin.com/in/shreyadixit1/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
